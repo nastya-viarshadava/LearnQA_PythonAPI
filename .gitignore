@@ -1,0 +1,7 @@
+.venv
+.idea
+.pytest_cache
+__pycache__
+LearnQA_MyPractice/.idea/
+        LearnQA_MyPractice/__pycache__/
+        __pycache__/
